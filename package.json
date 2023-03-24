@@ -2,14 +2,14 @@
   "name": "my__filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://BulatovaTati.github.io/my__filmoteka",
+  "homepage": "https://lassandra85.github.io/just-do-it",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /my__filmoteka/"
+    "build": "parcel build src/*.html --public-url /just-do-it/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BulatovaTati/my__filmoteka.git"
+    "url": "git+https://github.com/lassandra85/just-do-it.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
